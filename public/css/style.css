@@ -9,3 +9,9 @@ body {
   width: 100dvw;
   height: 100dvh;
 }
+
+
+#map{
+    width: 100%;
+    height: 100%;
+}
